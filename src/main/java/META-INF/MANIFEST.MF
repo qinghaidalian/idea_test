@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-tx-2.5.jar aspectjrt-1.5.3.jar spring-context-2.5.jar
+  spring-jdbc-2.5.jar commons-logging-1.1.jar hamcrest-core-1.3.jar myba
+ tis-3.2.8.jar spring-beans-2.5.jar aopalliance-1.0.jar spring-aspects-2
+ .5.jar spring-core-2.5.jar mysql-connector-java-5.1.32.jar aspectjweave
+ r-1.5.3.jar druid-1.0.9.jar jstl-1.2.jar mybatis-spring-1.2.2.jar junit
+ -4.12.jar
+
